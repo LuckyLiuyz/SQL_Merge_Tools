@@ -1,0 +1,3 @@
+insert into sm_appregister(pk_appregister,app_desc,apptype,code,creationtime,creator,dr,fun_property,funtype,height,help_name,image_src,iscauserusable,iscopypage,isenable,mdid,modifiedtime,modifier,mountid,name,orgtypecode,own_module,parent_id,pk_group,resid,source_app_code,target_path,ts,uselicense_load,width,scopeid) values('0001Z410000000000ZUC',null,1,'1880010000','2018-05-31 13:49:12','10011310000000000005',0,0,0,1,null,'danjuweihulei3','N','N','Y','~','2018-06-15 13:21:53','测试用户',null,'抵销分录制单','GLOBLE00000000000000','1880','0001Z410000000000ZPA','~','1880010000','1880010000','0001Z4100000000050KA','2020-05-29 10:13:05','Y',1,null)
+go
+
